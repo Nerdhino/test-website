@@ -1,0 +1,54 @@
+html {
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+h1 {
+    font-size: 60px;
+    text-align:center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 1px 1px 1px black;
+}
+
+li {
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    float: left;
+    clear: left;
+    list-style-type: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+html {
+    background-color: #134E7A;
+}
+body {
+    width:1280px;
+    height: 1075px;
+    margin: 0 auto;
+    background-color: azure;
+    border: 3px solid black;
+}
+img {
+    display: block;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 0 0 100px
+}
+footer{
+    clear: both;
+    text-align: right;
+    padding: 0 5px 0 0;
+}
